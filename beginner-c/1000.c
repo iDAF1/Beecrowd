@@ -1,3 +1,6 @@
-#! /bin/python3.12
-# -*- coding: utf-8 -*-
-print('Hello World!')
+#include <stdio.h>
+
+int main() {
+	printf("Hello World!\n");
+	return 0;
+}
