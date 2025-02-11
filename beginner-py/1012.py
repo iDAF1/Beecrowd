@@ -1,4 +1,4 @@
-#! /bin/pydoc3.12
+#! /bin/python3.12
 # -*- coding: utf-8 -*-
 a, b, c = map(float,input().split())
 output  = [
