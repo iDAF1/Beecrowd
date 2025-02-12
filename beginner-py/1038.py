@@ -1,6 +1,6 @@
 #! /bin/python3.12
 # -*- coding: utf-8 -*-
-x, y = map(float,  input().split())
+x, y        = map(float,  input().split())
 table_items = {
     1.0: 4.00,
     2.0: 4.50,
