@@ -6,4 +6,3 @@ for i in input_list:
     if i%2==0:
         count += 1
 print(f'{count} valores pares')
-
